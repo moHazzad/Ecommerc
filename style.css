@@ -1,0 +1,148 @@
+.box{
+    font-family: 'Poppins', sans-serif;
+    color: #707070;
+    
+}
+/* header start */
+    .hedr{
+       
+    }
+    .logo-img{
+        width: 10%;
+    }
+    .logo-img img{}
+     
+    .menu{}
+    .menu ul{}
+    .menu ul li{
+        margin-left: 16px;
+    }
+    .menu ul li a{
+        color: #000000;
+    }
+    .menu ul li a:hover{
+        border-bottom: #FF9D00 !important;
+    }
+/* header end */
+/* hero :start */
+.hero{
+    /* background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    top: 0;
+    bottom: 100; */
+}
+.redo-caro{}
+.redo-caro {}
+.redo-caro  button{
+    
+}
+.carousel-indicators [data-bs-target] {
+   
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #FF9D00;
+
+}
+
+.row{
+    min-height: 400px;
+}
+.hero-text{}
+.hero-text h1{}
+.hero-text p{
+    margin: 25px 0;
+    padding: 0 25px 0 0;
+}
+.buton{}
+.buton button{
+    padding: 10px 20px;
+    color: white;
+    font-weight: 500;
+    text-transform: uppercase;
+    background-color: black;
+    
+}
+
+.product{
+
+
+}
+.product img{}
+
+/* hero :end */
+/* all part :start */
+.smart-p{}
+.smart-p h1{}
+.disply{
+    margin: 20px 0;
+
+}
+.all{
+    margin-top: 20px;
+}
+.all a{
+    text-decoration: none;
+    color: #FF9D00;
+    text-transform: capitalize;
+}
+/* all part :end */
+/* card item start  */
+.pro{
+    margin: 60px;
+}
+.c-text h1{
+    font-size: 22px;
+}
+.c-text p{}
+.c-text span{
+    font-size: 25px;
+    font-weight: 600;
+}
+.buy-btn{
+    margin: 20px 0 30px; 
+
+}
+.buy-btn:hover button{
+    background-color: #FF9D00 !important;
+     
+
+}
+.butt{
+    margin: 10px 0 10px;
+}
+.buy-btn a{
+    text-decoration: none;
+    color: white;
+   
+     
+
+}
+/* card item end */
+/* catagory :start */
+.cta-title{
+    margin-bottom: 70px;
+}
+.cta-title h1{}
+.cta-title hr{
+    height: 5px;
+    width: 12%;
+    background-color: #FF9D00;
+    margin-left: 45%;
+}
+.ct-im{}
+.ct-im img{}
+.ct-im p{
+    
+}
+.ct-im-second{
+    margin-bottom: 20px;
+}
+.ct-im-second img{}
+.ct-im-second p{}
+.ct-im-third{
+    margin-top: 20px;
+}
+.ct-im-third img{}
+.ct-im-third p{}
+/* catagory :end */
